@@ -10,6 +10,6 @@ $('div').click(function () {
 
 /* console.log($('div').eq(2).find('.some')); */
 /* console.log($('.some').closest('.findme').addClass('testclass')); */
-console.log($('.more').eq(0).siblings());
+$('.findme').fadeIn(1800);
 
 /* console.log($('button').html("СЮДА НАЖМИТЕ")); */
